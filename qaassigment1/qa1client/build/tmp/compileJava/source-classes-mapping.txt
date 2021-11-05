@@ -1,0 +1,2 @@
+com/kpi/qa1client/Application.java
+ com.kpi.qa1client.Application

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="client" target="11" />
+      <module name="client.main" target="11" />
+      <module name="client.test" target="11" />
+      <module name="qaassigment1.qaassigment1.main~1" target="11" />
+      <module name="qaassigment1.qaassigment1.test~1" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
